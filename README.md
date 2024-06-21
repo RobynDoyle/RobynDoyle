@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Robyn and I like learning about all things computers. 🔭 Current languages that Im finding fun are C++ and Python. Some of the more fun things I've done lately was webscraping data from website with multiple pages use the Beautiful soup python library. 🌱 Other things that I enjoy are cycling, learning new stuff and hanging out with my amazing Gf ❤️
+
 <!--
 **RobynDoyle/RobynDoyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

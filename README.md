@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Robyn and I like learning about all things computers. 🔭 Current languages that Im finding fun are C++ and Python. Some of the more fun things I've done lately was webscraping data from websites with multiple pages using the Beautiful soup python library. 🌱 Other things that I enjoy are cycling, motorsports, learning new stuff, spending time with my family and exploring cities with my amazing Gf ❤️
+My name is Robyn and I like learning about all things computers. 🔭 Im working as a trainee IT architect. Current languages that Im finding fun are C++, C#, Java and Python. Some of the more fun things I've done lately was webscraping data from websites with multiple pages using the Beautiful soup python library. 🌱 Other things that I enjoy are cycling, motorsports, learning new stuff, spending time with my family and exploring cities with my amazing Gf ❤️
 
 
 
